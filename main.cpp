@@ -1,5 +1,5 @@
 //file ÀÔÃâ·Â
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
@@ -60,7 +60,7 @@ int main() {
     heapSort(a, n);
     printf("result=%.4lf(sec)\n",(double)(clock()-start)/CLOCKS_PER_SEC);
     return 0;
-}*/
+}
 
 
 //testcase generator
@@ -384,7 +384,7 @@ int main()
 
 
 //퀵 정렬
-#include<stdio.h>
+/*#include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
 #include<algorithm>
@@ -440,7 +440,7 @@ int main()
     printf("%d exe time: %fs\n",n,(float)(end-start)/CLOCKS_PER_SEC);
     if(cnt++<29) goto again;
     return 0;
-}
+}*/
 
 
 //코드 예시
