@@ -1,5 +1,5 @@
 # [SASA/2/Algorithm] Sorting algorithm
-[SASA/2/Algorithm] 세종과학예술영재학교 2학년 알고리즘(문광식T) 정렬 알고리즘 수행 시간 분석 수행평가
+[SASA/2/Algorithm] 2019 세종과학예술영재학교 2학년 알고리즘(문광식T) 정렬 알고리즘 수행 시간 분석 수행평가
 
 ## 목적
 정렬 알고리즘의 종류와 입력 데이터의 형식(random, sorted, reverse sorted)에 따른 수행 시간을 측정하고 그 원인을 분석한다.
